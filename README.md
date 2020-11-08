@@ -4,7 +4,7 @@
 ## I'm a full-stack Developer!
 
 - 🎓 I'm studying Mobile Solutions Development at Conestoga College.
-- 🎡 I’m currently learning React and its features.
+- 🎡 I’m currently working at Neex Brasil.
 
 
 ### Connect with me:
