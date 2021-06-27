@@ -3,7 +3,7 @@
 
 ## I'm a full-stack Developer!
 
-- 🎓 I'm studying Mobile Solutions Development at Conestoga College.
+- 🎓 Post-grad in Mobile Solutions Development at Conestoga College.
 - 🎡 I’m currently working at Neex Brasil.
 
 
