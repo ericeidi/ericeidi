@@ -4,7 +4,7 @@
 ## I'm a full-stack Developer!
 
 - 🎓 Post-grad in Mobile Solutions Development at Conestoga College.
-- 🎡 I’m currently working at Neex Brasil.
+- 🎡 I’m currently working at Kosmos Studio.
 
 
 ### Connect with me:
