@@ -4,7 +4,7 @@
 ## I'm a full-stack Developer!
 
 - 🎓 Post-grad in Mobile Solutions Development at Conestoga College.
-- 🎡 I’m currently working at Kosmo Studio.
+- 🎡 I’m currently working at FCamara.
 
 
 ### Connect with me:
