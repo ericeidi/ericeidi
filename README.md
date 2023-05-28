@@ -32,8 +32,6 @@
 <br />
 
 
-<img align="left" alt="ericeidi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ericeidi&show_icons=true&hide_border=true" />
-
 
 [instagram]: https://instagram.com/ericeidi
 [linkedin]: https://www.linkedin.com/in/eric-eidi-nishimura/
